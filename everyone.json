@@ -1,0 +1,28 @@
+{
+  "customBadgesArray": false,
+  "aliu": {
+    "dev": false,
+    "donor": false,
+    "contributor": false,
+    "custom": false
+  },
+  "bd": {
+    "dev": false
+  },
+"opti": {
+"developer": true
+},
+  "goosemod": {
+    "sponsor": false,
+    "dev": false,
+    "translator": false
+  },
+  "enmity": {
+
+  },
+  "replugged": null,
+  "vencord": {
+    "contributor": false
+  },
+  "userpfp": false
+}
