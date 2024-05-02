@@ -10,7 +10,10 @@
     "dev": false
   },
 "opti": {
-"developer": true
+"developer": true,
+"contributor": true,
+"addon": false,
+"supporter": false
 },
   "goosemod": {
     "sponsor": false,
