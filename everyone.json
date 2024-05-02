@@ -12,7 +12,7 @@
 "opti": {
 "developer": true,
 "contributor": true,
-"addon": false,
+"addon": true,
 "supporter": false
 },
   "goosemod": {
