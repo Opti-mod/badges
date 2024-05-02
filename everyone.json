@@ -12,7 +12,7 @@
 "opti": {
 "developer": true,
 "contributor": true,
-"addon": true,
+"addon": false,
 "supporter": false
 },
   "goosemod": {
@@ -25,7 +25,7 @@
   },
   "replugged": null,
   "vencord": {
-    "contributor": true
+    "contributor": false
   },
   "userpfp": false
 }
