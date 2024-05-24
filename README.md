@@ -1,2 +1,2 @@
-# badges
-Badge system might not even work lmao
+# Opti Badges
+All user's Opti badges.
