@@ -1,8 +1,8 @@
 {
-"opti": {
-"developer": true,
-"contributor": true,
-"addon": false,
-"supporter": true
-}
+  "opti": {
+    "developer": true,
+    "contributor": true,
+    "addon": false,
+    "supporter": true
+    }
 }
