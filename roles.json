@@ -1,0 +1,18 @@
+{
+    "opti_founder": {
+        "label": "Opti Founder",
+        "url": "https://codeberg.org/raincord/badges/raw/branch/main/assets/roles/rain_founder.png"
+    },
+    "opti_developer": {
+        "label": "Opti Developer",
+        "url": "https://raw.githubusercontent.com/Opti-mod/assets/refs/heads/main/BadgeDeveloper.png"
+    },
+    "opti_supporter": {
+        "label": "Opti Supporter",
+        "url": "https://raw.githubusercontent.com/Opti-mod/assets/refs/heads/main/BadgeSupporter.PNG"
+    },
+    "opti_contributor": {
+        "label": "Opti Contributor",
+        "url": "https://raw.githubusercontent.com/Opti-mod/assets/refs/heads/main/BadgeContributor.png"
+    }
+}
