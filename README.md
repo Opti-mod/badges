@@ -1,2 +1,2 @@
 # Opti Badges
-All user's Opti badges.
+All of Opti's badges. Check the `badges.json` file to see all of the users.

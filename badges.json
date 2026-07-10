@@ -27,8 +27,17 @@
     ],
     "custom": []
   },
+  "861631850681729045": {
+    "roles": [
+      "opti_developer",
+      "opti_contributor"
+    ],
+    "custom": []
+  },
   "1019146014352998491": {
-    "roles": [],
+    "roles": [
+      "opti_supporter"
+    ],
     "custom": [
       {
         "label": "shes very cute",
