@@ -27,7 +27,13 @@
     ],
     "custom": []
   },
-  "861631850681729045": {
+  "354957913187680257": {
+    "roles": [
+      "opti_supporter"
+    ],
+    "custom": []
+  },
+    "861631850681729045": {
     "roles": [
       "opti_developer",
       "opti_contributor"
