@@ -1,31 +1,31 @@
 {
-    "1167275288036655133": {
-        "roles": [
-            "opti_founder",
-            "opti_developer",
-        ],
-        "custom": [ ]
-    },
-    "767650984175992833": {
-        "roles": [
-            "opti_supporter",
-        ],
-        "custom": [ ]
-    },
-    "980160393093730395": {
-        "roles": [
-            "opti_developer",
-            "opti_contributor",
-        ],
-        "custom": [ ]
-    },
-    "1019146014352998491": {
-        "roles": [],
-        "custom": [
-            {
-                "label": "shes very cute",
-                "url": "https://media.discordapp.net/stickers/1188007017810493460.png?size=240&quality=lossless"
-            }
-        ]
-    },
+  "1167275288036655133": {
+    "roles": [
+      "opti_founder",
+      "opti_developer"
+    ],
+    "custom": []
+  },
+  "767650984175992833": {
+    "roles": [
+      "opti_supporter"
+    ],
+    "custom": []
+  },
+  "980160393093730395": {
+    "roles": [
+      "opti_developer",
+      "opti_contributor"
+    ],
+    "custom": []
+  },
+  "1019146014352998491": {
+    "roles": [],
+    "custom": [
+      {
+        "label": "shes very cute",
+        "url": "https://media.discordapp.net/stickers/1188007017810493460.png?size=240&quality=lossless"
+      }
+    ]
+  }
 }
